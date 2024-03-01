@@ -1,11 +1,11 @@
-# Student in PKN STAN
+# College Student in PKN STAN
 
 ### Education
-D4 Management of Financial State
+D4 Management of Financial State: 1-6
 
 ### Organization
-- BEM
-- PUSPA (Pusat Studi Perpajakan)
+- BEM: Financial Ministry as The Expenditure Treasurer of Social Ministry
+- PUSPA (Center for Taxation Studies): Staff of Study and Research
 
 ### Project Team
 - Dana Ormawa as Secretary 2
