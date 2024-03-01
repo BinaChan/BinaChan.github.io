@@ -1,4 +1,5 @@
 # College Student in PKN STAN
+![profil] /Picture/profil.jpg
 
 ### Education
 D4 Management of Financial State: 1-6
