@@ -4,9 +4,9 @@
 D4 Management of Financial State
 
 ### Organization
-BEM
-PUSPA (Pusat Studi Perpajakan)
+- BEM
+- PUSPA (Pusat Studi Perpajakan)
 
 ### Project Team
-Dana Ormawa as Secretary 2
-Financial Workshop as RLO
+- Dana Ormawa as Secretary 2
+- Financial Workshop as RLO
